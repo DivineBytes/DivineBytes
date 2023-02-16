@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello, World! 👋</h1>
+<h1 align="center">Hello, world! 👋</h1>
 
 <p align="center">Welcome! To my software repository.</p>
 
