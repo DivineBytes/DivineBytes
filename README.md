@@ -42,3 +42,20 @@ Here are some ideas to get you started:
     <img align="center" alt="Visual Studio Code" width="36px" src="Images/VisualStudioCode.png" />
   </p>
 </p>
+
+<h1 align="center">Statistics 📊</h1>
+
+<p align="center">
+  <a href="https://github.com/DivineBytes"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=DivineBytes&color=2984CC&style=flat" alt="DivineBytes's GitHub Profile Guests"/></a>
+  <br />
+  <a href="https://github.com/DivineBytes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DivineBytes&theme=tokyonight&hide_border=false&stroke=0000" alt="DivineBytes's GitHub Streak Stats"/></a>
+  <br />
+  <a href="https://github.com/DivineBytes"><img src="https://github-readme-stats.vercel.app/api?username=DivineBytes&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="DivineBytes's GitHub Stats"/></a>
+  <br />
+  <a href="https://github.com/DivineBytes?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineBytes&layout=compact&theme=tokyonight" alt="DivineBytes's GitHub Top Langs"/></a>
+</p>
+
+<h1 align="center">Trophies 🏆</h1>
+
+<p align="center">
+  <a href="https://github.com/DivineBytes"><img src="https://github-profile-trophy.vercel.app/?username=DivineBytes&theme=onedark&no-bg=true" alt="DivineBytes's GitHub Profile Trophy"/></a>
