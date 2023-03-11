@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DivineBytes?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivineBytes&layout=compact&theme=tokyonight" alt="DivineBytes's GitHub Top Langs"/></a>
 </p>
 
-<h1 align="center">Trophies 🏆</h1>
+<h1 align="center">🏆 Trophies 🏆</h1>
 
 <p align="center">
   <a href="https://github.com/DivineBytes"><img src="https://github-profile-trophy.vercel.app/?username=DivineBytes&theme=onedark&no-bg=true" alt="DivineBytes's GitHub Profile Trophy"/></a>
