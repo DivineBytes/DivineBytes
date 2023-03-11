@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">Welcome! To my software repository.</p>
 
-<h1 align="center">Programming Languages 📜</h1>
+<h1 align="center">📜 Programming Languages 📜</h1>
 
 <p align="left">
   <p align="center">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <h1 align="center">Software 💖</h1>
+  <h1 align="center">💖 Software 💖</h1>
 </p>
 
 <p align="left">
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </p>
 </p>
 
-<h1 align="center">Statistics 📊</h1>
+<h1 align="center">📊 Statistics 📊</h1>
 
 <p align="center">
   <a href="https://github.com/DivineBytes"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=DivineBytes&color=2984CC&style=flat" alt="DivineBytes's GitHub Profile Guests"/></a>
